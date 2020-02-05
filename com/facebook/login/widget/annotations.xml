@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.facebook.login.widget.LoginButton void setReadPermissions(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.Blocking' />
+    </item>
+</root>
